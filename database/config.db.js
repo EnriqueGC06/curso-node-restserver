@@ -1,12 +1,5 @@
 const mongoose = require('mongoose');
 
-// const cnx = {
-//     user: 'DESKTOP-LEQGPDN\PC Sistemas',
-//     password: '',
-//     server: 'DESKTOP-LEQGPDN\SQLEXPRESS',
-//     database: 'DBPRUEBA'
-// }
-
 const dbConnection = async() => {
     
     try {
